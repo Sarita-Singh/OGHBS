@@ -18,12 +18,7 @@ body {
 		font-family: "DM Sans", sans-serif;
 	background-color:  #d2d6d9 ;
 	line-height: 1.5;
-	/*min-height: 300vh;*/
 	position: relative;
-	/*display: flex;*/
-	/*justify-content: center;*/
-	/*align-items: center;*/
-	/*flex-direction: column;*/
 	height: 100vh;
 	margin: 0 ;
 }
