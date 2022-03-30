@@ -5,12 +5,7 @@
 
 body {
     background: linear-gradient(to right, #ffa3a5,#FEB1C0);
-    /*display: flex;*/
-    /*justify-content: center;*/
-    /*align-items: center;*/
-    /*flex-direction: column;*/
     font-family: 'Montserrat', sans-serif;
-    /* height: 100vh; */
      margin: 0;
 }
 
